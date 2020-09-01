@@ -1,4 +1,4 @@
-Data Structures and Algorithm - Book-Application Test Regime
+Data Structures and Algorithms - Book-Application Test Regime
 Note: To test the Book Application please run with Eclipse, IntelliJ or any other IDE
 compatible with java.
 
